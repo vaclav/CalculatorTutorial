@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="h01j" modelUID="r:a97c2fcd-b950-4f67-90d2-868c73f6be51(Calculator.structure)" version="-1" />
+    </dependencies>
+    <rename id="h01j.2339873612002093006" type="REFERENCE" from="inputField" to="field" />
+  </StructureModification>
+</history>
+
