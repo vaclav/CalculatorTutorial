@@ -69,8 +69,8 @@
           <node role="rightExpression" roleId="tpee.1081773367579" type="h01j.InputFieldReference" typeId="h01j.2339873612002093005" id="6766386558794066463">
             <link role="field" roleId="h01j.2339873612002093006" targetNodeId="6766386558794066440" resolveInfo="MPS" />
           </node>
-          <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="6766386558794118441">
-            <property name="value" nameId="tpee.1068580320021" value="2000" />
+          <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="6766386558794118978">
+            <property name="value" nameId="tpee.1068580320021" value="1000" />
           </node>
         </node>
         <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="6766386558794066448">
@@ -87,7 +87,7 @@
               <property name="value" nameId="tpee.1068580320021" value="500" />
             </node>
             <node role="rightExpression" roleId="tpee.1081773367579" type="h01j.InputFieldReference" typeId="h01j.2339873612002093005" id="6766386558794066455">
-              <link role="field" roleId="h01j.2339873612002093006" targetNodeId="6766386558794066439" resolveInfo="Groovy/Grails" />
+              <link role="field" roleId="h01j.2339873612002093006" targetNodeId="6766386558794066439" resolveInfo="Groovy" />
             </node>
           </node>
         </node>
@@ -97,7 +97,7 @@
       <property name="name" nameId="tpck.1169194664001" value="Java" />
     </node>
     <node role="inputField" roleId="h01j.2339873612002082831" type="h01j.InputField" typeId="h01j.2339873612002082821" id="6766386558794066439">
-      <property name="name" nameId="tpck.1169194664001" value="Groovy/Grails" />
+      <property name="name" nameId="tpck.1169194664001" value="Groovy" />
     </node>
     <node role="inputField" roleId="h01j.2339873612002082831" type="h01j.InputField" typeId="h01j.2339873612002082821" id="6766386558794066440">
       <property name="name" nameId="tpck.1169194664001" value="MPS" />
