@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="18" endPosition="0" unitName="Calculator.intentions.IntentionsDescriptor" />
+  <root nodeId="6766386558794101444">
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794110371" fileName="DoubleRate_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="38" startPosition="58" endLine="39" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="40" startPosition="5" endLine="41" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794118444" fileName="DoubleRate_Intention.java" startLine="44" startPosition="90" endLine="45" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794117569" fileName="DoubleRate_Intention.java" startLine="48" startPosition="76" endLine="49" endPosition="115" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6766386558794118594" fileName="DoubleRate_Intention.java" startLine="49" startPosition="115" endLine="50" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6766386558794117576" fileName="DoubleRate_Intention.java" startLine="50" startPosition="69" endLine="51" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6766386558794110373" fileName="DoubleRate_Intention.java" startLine="51" startPosition="69" endLine="52" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="55" startPosition="37" endLine="56" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="13" startPosition="78" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="DoubleRate_Intention#()V" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="37" startPosition="84" endLine="40" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableToNode#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="54" startPosition="0" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="36" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicable#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="47" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="14" startPosition="33" endLine="14" endPosition="33" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="66" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" />
+    <scopeInfo nodeId="6766386558794101446" fileName="DoubleRate_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="29" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="38" startPosition="58" endLine="39" endPosition="19" />
+    <scopeInfo nodeId="6766386558794118443" fileName="DoubleRate_Intention.java" startLine="44" startPosition="90" endLine="45" endPosition="103" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="55" startPosition="37" endLine="56" endPosition="35" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="13" startPosition="78" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0">
+      <varInfo nodeId="6766386558794101444" varName="editorContext" />
+      <varInfo nodeId="6766386558794101444" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="37" startPosition="84" endLine="41" endPosition="16" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="43" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="6766386558794101444" varName="editorContext" />
+      <varInfo nodeId="6766386558794101444" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="6766386558794101448" fileName="DoubleRate_Intention.java" startLine="48" startPosition="76" endLine="52" endPosition="54">
+      <varInfo nodeId="6766386558794118595" varName="currentValue" />
+      <varInfo nodeId="6766386558794117570" varName="newNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="54" startPosition="0" endLine="58" endPosition="0" />
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="36" startPosition="0" endLine="43" endPosition="0">
+      <varInfo nodeId="6766386558794101444" varName="editorContext" />
+      <varInfo nodeId="6766386558794101444" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="47" startPosition="0" endLine="54" endPosition="0">
+      <varInfo nodeId="6766386558794101444" varName="editorContext" />
+      <varInfo nodeId="6766386558794101444" varName="node" />
+    </scopeInfo>
+    <unitInfo nodeId="6766386558794101444" fileName="DoubleRate_Intention.java" startLine="13" startPosition="0" endLine="59" endPosition="0" unitName="Calculator.intentions.DoubleRate_Intention" />
+  </root>
+</debugInfo>
+

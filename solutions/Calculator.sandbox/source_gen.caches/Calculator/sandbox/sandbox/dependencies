@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="Calculator.sandbox.sandbox.My2010Rates" file="My2010Rates.java">
+    <classNode dependClassName="java.awt.GridLayout" />
+    <classNode dependClassName="java.lang.Integer" />
+    <classNode dependClassName="java.lang.NumberFormatException" />
+    <classNode dependClassName="java.lang.Runnable" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="javax.swing.JLabel" />
+    <classNode dependClassName="javax.swing.JTextField" />
+    <classNode dependClassName="javax.swing.SwingUtilities" />
+    <classNode dependClassName="javax.swing.event.DocumentEvent" />
+    <classNode dependClassName="javax.swing.event.DocumentListener" />
+    <classNode extendsClassName="javax.swing.JFrame" />
+  </dependency>
+  <dependency className="Calculator.sandbox.sandbox.My2011Rates" file="My2011Rates.java">
+    <classNode dependClassName="java.awt.GridLayout" />
+    <classNode dependClassName="java.lang.Integer" />
+    <classNode dependClassName="java.lang.NumberFormatException" />
+    <classNode dependClassName="java.lang.Runnable" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="javax.swing.JLabel" />
+    <classNode dependClassName="javax.swing.JTextField" />
+    <classNode dependClassName="javax.swing.SwingUtilities" />
+    <classNode dependClassName="javax.swing.event.DocumentEvent" />
+    <classNode dependClassName="javax.swing.event.DocumentListener" />
+    <classNode extendsClassName="javax.swing.JFrame" />
+  </dependency>
+</dependenciesRoot>
+
